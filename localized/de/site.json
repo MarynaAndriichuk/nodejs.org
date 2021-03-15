@@ -2,19 +2,19 @@
   "title": "Node.js",
   "author": "Node.js",
   "url": "https://nodejs.org/en/",
-  "locale": "en",
-  "language": "English",
-  "languageEnglishVersion": "English",
-  "scrollToTop": "Scroll to top",
-  "reportNodeIssue": "Report Node.js issue",
-  "reportWebsiteIssue": "Report website issue",
-  "getHelpIssue": "Get Help",
-  "by": "by",
-  "all-downloads": "All download options",
-  "nightly": "Nightly builds",
-  "unofficial-builds": "Unofficial builds",
-  "previous": "Previous",
-  "next": "Next",
+  "locale": "de",
+  "language": "Englisch",
+  "languageEnglishVersion": "Englisch",
+  "scrollToTop": "Nach oben scrollen",
+  "reportNodeIssue": "Node.js Problem melden",
+  "reportWebsiteIssue": "Website-Problem melden",
+  "getHelpIssue": "Hilfe erhalten",
+  "by": "von",
+  "all-downloads": "Alle Download-Optionen",
+  "nightly": "Nachts Builds",
+  "unofficial-builds": "Inoffizielle Builds",
+  "previous": "Vorherige",
+  "next": "Nächste",
   "feeds": [
     {
       "link": "feed/blog.xml",
@@ -26,71 +26,71 @@
     },
     {
       "link": "feed/vulnerability.xml",
-      "text": "Node.js Blog: Vulnerability Reports"
+      "text": "Node.js Blog: Schwachstellenberichte"
     }
   ],
   "home": {
-    "text": "Home"
+    "text": "Zuhause"
   },
   "about": {
-    "link": "about",
-    "text": "About",
+    "link": "über",
+    "text": "Über",
     "governance": {
-      "link": "about/governance",
+      "link": "über/regieren",
       "text": "Governance"
     },
     "community": {
-      "link": "about/community",
+      "link": "von/Gemeinschaft",
       "text": "Community"
     },
     "workinggroups": {
-      "link": "about/working-groups",
-      "text": "Working Groups"
+      "link": "about/Arbeitsgruppen",
+      "text": "Arbeitsgruppen"
     },
     "releases": {
-      "link": "about/releases",
-      "text": "Releases"
+      "link": "von/Veröffentlichungen",
+      "text": "Veröffentlichungen"
     },
     "resources": {
-      "link": "about/resources",
-      "text": "Resources"
+      "link": "über/Ressourcen",
+      "text": "Ressourcen"
     },
     "trademark": {
-      "link": "about/trademark",
-      "text": "Trademark"
+      "link": "über/Marke",
+      "text": "Warenzeichen"
     },
     "privacy": {
-      "link": "about/privacy",
-      "text": "Privacy Policy"
+      "link": "über/Privatsphäre",
+      "text": "Datenschutzerklärung"
     }
   },
   "download": {
-    "link": "download",
+    "link": "downloaden",
     "text": "Downloads",
     "releases": {
-      "link": "download/releases",
-      "text": "Previous Releases"
+      "link": "herunterladen/freischalten",
+      "text": "Vorherige Versionen"
     },
     "package-manager": {
-      "link": "download/package-manager",
-      "text": "Installing Node.js via package manager"
+      "link": "download/Paketmanager",
+      "text": "Installiere Node.js über den Paketmanager"
     },
     "shasums": {
       "link": "SHASUMS256.txt.asc",
-      "text": "Signed SHASUMS for release files",
-      "verify-link": "https://github.com/nodejs/node#verifying-binaries",
-      "verify-text": "How to verify"
+      "text": "Signierte SHASUMS für Release-Dateien",
+      "verify-link": "https://github.com/nodejs/node#Verifying-binaries",
+      "verify-text": "Wie verifizieren"
     },
     "install-on-linux": {
-      "text": "Installing Node.js via binary archive"
+      "text": "Installiere Node.js über Binärarchiv"
     }
   },
   "docs": {
-    "link": "docs",
-    "text": "Docs",
+    "link": "doc",
+    "text": "Texte",
     "es6": {
       "link": "docs/es6",
-      "text": "ES6 and beyond"
+      "text": "ES6 und höher"
     },
     "api-lts": {
       "link": "https://nodejs.org/dist/latest-%ver-major%/docs/api/",
@@ -103,31 +103,31 @@
     },
     "guides": {
       "link": "docs/guides",
-      "text": "Guides"
+      "text": "Anleitungen"
     },
     "dependencies": {
       "link": "docs/meta/topics/dependencies",
-      "text": "Dependencies"
+      "text": "Abhängigkeiten"
     }
   },
   "getinvolved": {
-    "link": "get-involved",
-    "text": "Get Involved",
+    "link": "mitmachen",
+    "text": "Beteiligt werden",
     "code-and-learn": {
-      "link": "get-involved/code-and-learn",
-      "text": "Code + Learn"
+      "link": "get-involviert/code-and-learn",
+      "text": "Code + Lernen"
     },
     "collab-summit": {
-      "link": "get-involved/collab-summit",
-      "text": "Collab Summit"
+      "link": "get-involviert/collab-Summit",
+      "text": "Kollab Gipfel"
     },
     "contribute": {
-      "link": "get-involved/contribute",
-      "text": "Contribute"
+      "link": "get-involviert/mitmachen",
+      "text": "Mitwirken"
     },
     "conduct": {
-      "link": "https://github.com/nodejs/node/blob/master/doc/guides/contributing/code-of-conduct.md",
-      "text": "Code of Conduct"
+      "link": "https://github.com/nodejs/node/blob/master/doc/guides/contributing/code of conduct.md",
+      "text": "Verhaltenskodex"
     },
     "node-meetups": {
       "link": "get-involved/node-meetups",
@@ -135,19 +135,19 @@
     }
   },
   "security": {
-    "link": "security",
-    "text": "Security"
+    "link": "sicher",
+    "text": "Sicherheit"
   },
   "getcertified": {
     "link": "https://openjsf.org/certification",
-    "text": "Certification"
+    "text": "Zertifizierung"
   },
   "blog": {
     "link": "blog",
-    "text": "News"
+    "text": "Nachrichten"
   },
   "releases": {
-    "title": "Release History",
+    "title": "Release-Verlauf",
     "downloads": "Downloads"
   },
   "links": {
