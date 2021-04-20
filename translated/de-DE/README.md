@@ -1,4 +1,4 @@
-# DO NOT REMOVE THIS DIRECTORY
+# BITTE DAS NICHT ENTFERNEN
 
 Those assets are still being used by legacy versions of the Node.js docs.  
 Everything up to v0.10.28 is a copy of the entire website, e.g.:
