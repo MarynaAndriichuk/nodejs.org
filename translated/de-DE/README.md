@@ -11,5 +11,5 @@ Those are the first versions with just the API docs and the changelog only:
 * https://nodejs.org/docs/v0.10.27/
 * https://nodejs.org/docs/v0.10.29/
 
-The URL rewriting is done in the nodejs.org nginx config:  
+The actual URL rewriting is done in the nodejs.org nginx config:  
 https://raw.githubusercontent.com/nodejs/build/master/setup/www/resources/config/nodejs.org
