@@ -8,7 +8,7 @@ Everything up to v0.10.28 is a copy of the entire website, e.g.:
 
 Those are the first versions with just the API docs and the changelog only:
 
-* https://nodejs.org/docs/v0.10.27/
+* https://nodejs.org/docs/de-De/v0.10.27/
 * https://nodejs.org/docs/v0.10.29/
 
 The URL rewriting is done in the nodejs.org nginx config:  
